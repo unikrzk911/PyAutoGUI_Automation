@@ -23,7 +23,7 @@ def unliker(num):
         time.sleep(1)
 
 
-print("Open the account whose video you want to like in web browser with the video open\n")
+print("Open the account whose video you want to like/unlike in web browser with the video open\n")
 while True:
     print('What do you want to do?')
     print('1. Like videos')
